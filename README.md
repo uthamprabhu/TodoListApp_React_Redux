@@ -11,8 +11,8 @@ Technologies used: ReactJs, Redux, NodeJs, ExpressJs.
 ```
 npm start
 ```
-4. open the frontend folder and write
+3. open the frontend folder and write
 ```
 npm run dev
 ```
-7. finally as both the folders are running open the working app by clicking [localhost:3000](http://localhost:3000) in any browser of your choice.
+4. finally as both the folders are running open the working app by clicking [localhost:3000](http://localhost:3000) in any browser of your choice.
